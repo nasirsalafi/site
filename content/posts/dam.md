@@ -9,3 +9,7 @@ tags = ["ruqa", "dum"]
 title = "Dam"
 
 +++
+
+Here is a video.
+
+{{< video src="/uploads/2019-06-18-215020331.mp4" >}}
