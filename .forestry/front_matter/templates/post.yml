@@ -27,4 +27,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/dam.md
 - content/posts/my-picture.md
