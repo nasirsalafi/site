@@ -38,7 +38,7 @@ googleAnalytics = "UA-147400444-1"
 
   homeSubtitle = "Quran Therapy Online"
   footerCopyright = ' &#183; All rights reserved'
-  # bgImg = ""  # Homepage background-image URL
+ bgImg = "/uploads/bg.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
