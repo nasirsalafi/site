@@ -67,6 +67,11 @@ googleAnalytics = "UA-147400444-1"
     name = "facebook"
     url = "https://facebook.com/nasir.gul.1654"
 
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UCxT_MRS72PV9lHk9ZoHMW6w"
+
+
 [menu]
 
   [[menu.main]]
