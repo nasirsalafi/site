@@ -1,7 +1,7 @@
 +++
-author = "Nasi salafi"
+author = "Nasir Salafi"
 comments = true
-date = 2020-04-01T16:48:00Z
+date = 2020-04-01T18:20:00Z
 description = "Hijama tareeqa e nabvi slm"
 layout = "HIjama"
 slug = "Tareeqa"
