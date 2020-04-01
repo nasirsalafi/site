@@ -3,6 +3,7 @@ author = "Nasi salafi"
 comments = true
 date = 2020-04-01T16:48:00Z
 description = "Hijama tareeqa e nabvi slm"
+draft = true
 layout = "HIjama"
 slug = "Tareeqa"
 tags = ["Cupping style", "Hijama"]
