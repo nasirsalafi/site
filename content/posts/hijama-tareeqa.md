@@ -10,4 +10,4 @@ tags = ["Cupping style", "Hijama"]
 title = "Hijama Tareeqa"
 
 +++
-[hiama nasir sort Untitled 60_720p.mp4](/uploads/hiama nasir sort Untitled 60_720p.mp4 "hijama nasir sort Untitled 60_720p.mp4")
+hiama nasir sort [hiama nasir sort Untitled 60_720p.mp4](/uploads/hiama nasir sort Untitled 60_720p.mp4 "hiama nasir sort Untitled 60_720p.mp4")Untitled 60_720p.mp4
