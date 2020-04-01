@@ -9,4 +9,5 @@ tags = ["Jadu ki aqsam"]
 title = "Jadu ki Aqsam"
 
 +++
-[adeba ad ki aqsa Untitled 49_720p-2.mp4](/uploads/adeba ad ki aqsa Untitled 49_720p-2.mp4 "adeba ad ki aqsa Untitled 49_720p-2.mp4")
+
+{{< video src="/uploads/adeba ad ki aqsa Untitled 49_720p.mp4" >}}
