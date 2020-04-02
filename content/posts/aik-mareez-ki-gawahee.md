@@ -4,7 +4,7 @@ comments = true
 date = 2020-04-01T12:18:00Z
 description = "Aik marrez 35 sal purane jadu se kese bacha uski apni zubani sune,"
 layout = "Post"
-slug = "Me kese theek hua"
+slug = "Me_kese_theek_hua"
 tags = ["jadu ka ilaj", "Gawahe patients ki"]
 title = "Aik Mareez ki Gawahee"
 
