@@ -9,4 +9,4 @@ tags = ["nazar e bad ki alamat", "assaib ki alamat", "jadu ki alamat", "Alamat"]
 title = "Jadu nazar e bad or asaib ki Alamat"
 
 +++
-{{< video src="/uploads/lamat long nasir Untitled_1080p.mp4" >}}
+[jaduki aqsam.mp4](/uploads/jaduki aqsam.mp4 "jaduki aqsam.mp4"){{< video src="/uploads/lamat long nasir Untitled_1080p.mp4" >}}
