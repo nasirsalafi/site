@@ -27,6 +27,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/aik-mareez-ki-gawahee.md
 - content/posts/dam.md
 - content/posts/hijama-tareeqa.md
 - content/posts/jadu-ki-aqsam.md
