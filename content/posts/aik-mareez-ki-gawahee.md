@@ -1,7 +1,7 @@
 +++
 author = "Nasir salafi"
 comments = true
-date = 2020-04-01T12:18:00Z
+date = 2020-04-02T13:47:00Z
 description = "Aik marrez 35 sal purane jadu se kese bacha uski apni zubani sune,"
 layout = "Post"
 slug = "Me_kese_theek_hua"
