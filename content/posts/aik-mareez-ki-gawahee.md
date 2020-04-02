@@ -9,4 +9,4 @@ tags = ["jadu ka ilaj", "Gawahe patients ki"]
 title = "Aik Mareez ki Gawahee"
 
 +++
-{{< video src="[35 sal purna jadu kaise touta Qari Nasir SALAFi.mp4](/uploads/35 sal purna jadu kaise touta Qari Nasir SALAFi.mp4 "35 sal purna jadu kaise touta Qari Nasir SALAFi.mp4")
+{{< video src="[35 sal purna jadu kaise touta Qari Nasir SALAFi.mp4](/uploads/35 sal purna jadu kaise touta Qari Nasir SALAFi.mp_ "35_sal_purna_jadu_kaise_touta_Qari_Nasir_SALAFi_mp4")
