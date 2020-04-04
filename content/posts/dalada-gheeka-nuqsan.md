@@ -1,7 +1,7 @@
 +++
 author = "nasir"
 comments = true
-date = 2020-04-04T10:58:00Z
+date = 2020-04-04T10:59:00Z
 description = "COCKING OIL KA NUQSAN"
 layout = "post"
 slug = "coocking oil kA NUQSAN"
