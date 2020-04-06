@@ -3,7 +3,6 @@ author = "nasir"
 comments = true
 date = 2020-04-06T14:07:00Z
 description = "Chorona virus se Bachao kese?"
-draft = true
 layout = "post"
 slug = "Korona virus"
 tags = ["korona virus treatment", "virus", "korona"]
