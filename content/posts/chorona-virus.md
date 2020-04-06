@@ -1,12 +1,13 @@
 +++
 author = "nasir"
 comments = true
-date = 2020-04-06T14:05:00Z
+date = 2020-04-06T14:07:00Z
 description = "Chorona virus se Bachao kese?"
+draft = true
 layout = "post"
 slug = "Korona virus"
 tags = ["korona virus treatment", "virus", "korona"]
-title = "Chorona virus"
+title = "Korona virus"
 
 +++
-{{< video src="/uploads/[Corona _virus ki_  Haqeeqa_t](/uploads/Corona virus ki haqeeqat Qari Nasir SALAFi.mp4 "Corona virus ki haqeeqat Qari Nasir SALAFi.mp4")._mp4" >_}}
+{{< video src="/uploads/[Korona _virus ki_  Haqeeqat](/uploads/Corona virus ki haqeeqat Qari Nasir SALAFi.mp4 "Corona virus ki haqeeqat Qari Nasir SALAFi.mp4")._mp4" >_}}
