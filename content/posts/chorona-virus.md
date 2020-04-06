@@ -9,4 +9,4 @@ tags = []
 title = "Chorona virus"
 
 +++
-{{< video src="/uploads/[Corona _virus ki_  Haqeeqa_t_](/uploads/Corona virus ki haqeeqat Qari Nasir SALAFi.mp4 "Corona virus ki haqeeqat Qari Nasir SALAFi.mp4") _mp4" >_}}
+{{< video src="/uploads/[Corona _virus ki_  Haqeeqa_t_](/uploads/Corona virus ki haqeeqat Qari Nasir SALAFi.mp4 "Corona virus ki haqeeqat Qari Nasir SALAFi.mp4")_mp4" >_}}
