@@ -9,4 +9,4 @@ tags = ["NUQSAN DALADA GHEE KA"]
 title = "Dalada ghee ka nuqsan"
 
 +++
-{{< video src="/uploads/dalda oil ka nuqsan mp4" >}}
+{{< video src="/uploads/Dalda ghee or Cooking oil ka nuqsan Qari Nasir SALAFi-1.mp4" >}}
