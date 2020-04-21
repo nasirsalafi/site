@@ -4,7 +4,7 @@ comments = true
 date = 2020-04-05T14:32:00Z
 description = "COCKING OIL KA NUQSAN"
 layout = "post"
-slug = "coocking oil kA NUQSAN"
+slug = "cooking oil ka nuqsan"
 tags = ["NUQSAN DALADA GHEE KA"]
 title = "Dalada ghee ka nuqsan"
 
