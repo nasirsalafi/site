@@ -1,6 +1,6 @@
 ---
 author: Abdullah
-date: Sun 03 May 2020 10:49:01 PM PKT
+date: 2020-05-03
 layout: post
 description: "Ruqa Shariyah"
 slug: Ruqiya
