@@ -1,12 +1,6 @@
-<div class="img-overlay">
-<div class="overlay" style="position:absolute;top:0%;left:0%;width:50%">
-<div class="progress active">
-<div class="bar"></div>
-</div>
-</div>
-<video autoplay="autoplay" loop="loop" preload="auto">
-<source src="{{ .Get "src" }}" type="video/mp4">
-<source src="{{ .Get "src" }}" type="video/ogg">
-Your browser does not support the video tag.
+<figure {{ with .Get "class" }}class="{{ . }}"{{ end }}>
+<video controls preload="{{ .Get "preload" | default "metadata" }}" {{ with .Get "width" }}width="{{ . }}"{{ end }}>
+{{ with .Get "src" }}<source src="{{ .  | relURL }}" type="video/mp4">{{ end }}
 </video>
-</div>
+{{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
