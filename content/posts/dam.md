@@ -1,15 +1,14 @@
 +++
 author = "Abdullah"
 comments = true
-date = 2020-03-30T19:00:00Z
-description = "A video "
+date = 2020-05-01
+description = "Jin ko Qabu krna"
 layout = "post"
-slug = "dum"
-tags = ["ruqa", "dum"]
-title = "Dam"
+slug = "Jin ko Qabu krna"
+tags = ["Jin", "Qabu"]
+title = "Jin Qabu krna"
 
 +++
 
-Here is a video.
 
-{{< video src="/uploads/2019-06-18-215020331.mp4" >}}
+{{< youtube o2QrleZHLfw >}}
