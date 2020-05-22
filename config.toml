@@ -88,3 +88,7 @@ disqusShortname = "islamic-shifa-center"
     name = "Books"
     url = "books/"
     weight = 30
+  [[menu.main]]
+    name = "Gallery"
+    url = "gallery"
+    weight = 40
