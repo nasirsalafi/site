@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Islamic Shifa Center"
 theme = "hermit"
-# enableGitInfo = true
+enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 # hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
@@ -30,6 +30,8 @@ disqusShortname = "islamic-shifa-center"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  devGitlab = "https://gitlab.com/Abdullah"
+  devGithub = "https://github.com/Awan"
 
   # Metadata mostly used in document's head
   # description = ""
@@ -41,7 +43,7 @@ disqusShortname = "islamic-shifa-center"
  bgImg = "/uploads/bg.jpg"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
+ gitUrl = "https://github.com/nasirsalafi/site/commit/"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.
