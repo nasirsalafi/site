@@ -94,3 +94,5 @@ disqusShortname = "islamic-shifa-center"
     name = "Gallery"
     url = "gallery"
     weight = 40
+
+# vim:ft=toml
